@@ -1,0 +1,19 @@
+/* .text1 {
+    color: red;
+}
+
+#hello1 {
+    color: green;
+} */
+
+* {
+    margin: 0;
+}
+
+[data-index="hello"] {
+    color: green;
+}
+
+.text1 span {
+    color: red;
+}
