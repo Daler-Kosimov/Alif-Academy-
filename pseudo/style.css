@@ -1,0 +1,17 @@
+.more::before {
+    content: "Before: ";
+    font-size: 12px;
+}
+
+.more::after {
+    content: ":After";
+    font-size: 12px;
+}
+
+.more:hover {
+    color: red;
+}
+
+.more:active {
+    color: blue;
+}
